@@ -1,0 +1,3759 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-09-23">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="raw_weight" type="long" />
+      <attribute id="4" title="normalized_weight" type="double" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="demo_group" type="string" />
+      <attribute id="2" title="tag" type="string" />
+    </attributes>
+    <nodes>
+      <node id="613f152f09f6e200217e84de" label="613f152f09f6e200217e84de">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="ENG" />
+        </attvalues>
+      </node>
+      <node id="Urban Environment" label="Urban Environment">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Urban Environment" />
+        </attvalues>
+      </node>
+      <node id="Infrastructure" label="Infrastructure">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Infrastructure" />
+        </attvalues>
+      </node>
+      <node id="Architecture" label="Architecture">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Architecture" />
+        </attvalues>
+      </node>
+      <node id="Objects" label="Objects">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Objects" />
+        </attvalues>
+      </node>
+      <node id="Urban Nature" label="Urban Nature">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Urban Nature" />
+        </attvalues>
+      </node>
+      <node id="Atmosphere" label="Atmosphere">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Atmosphere" />
+        </attvalues>
+      </node>
+      <node id="People /community" label="People /community">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="People /community" />
+        </attvalues>
+      </node>
+      <node id="Consumption" label="Consumption">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Consumption" />
+        </attvalues>
+      </node>
+      <node id="Don't know" label="Don't know">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Don't know" />
+        </attvalues>
+      </node>
+      <node id="Memories &amp; associations" label="Memories &amp; associations">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Memories &amp; associations" />
+        </attvalues>
+      </node>
+      <node id="Smell" label="Smell">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Smell" />
+        </attvalues>
+      </node>
+      <node id="Sound" label="Sound">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Sound" />
+        </attvalues>
+      </node>
+      <node id="Statue" label="Statue">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Statue" />
+        </attvalues>
+      </node>
+      <node id="The most horrible pedestrian crossing" label="The most horrible pedestrian crossing">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="The most horrible pedestrian crossing" />
+        </attvalues>
+      </node>
+      <node id="Culture" label="Culture">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Culture" />
+        </attvalues>
+      </node>
+      <node id="Wind &amp; Weather" label="Wind &amp; Weather">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Wind &amp; Weather" />
+        </attvalues>
+      </node>
+      <node id="613f152f09f6e200217e84d5" label="613f152f09f6e200217e84d5">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="ENG" />
+        </attvalues>
+      </node>
+      <node id="Metal" label="Metal">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Metal" />
+        </attvalues>
+      </node>
+      <node id="Grey" label="Grey">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Grey" />
+        </attvalues>
+      </node>
+      <node id="Test" label="Test">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Test" />
+        </attvalues>
+      </node>
+      <node id="Language" label="Language">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Language" />
+        </attvalues>
+      </node>
+      <node id="Dark" label="Dark">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Dark" />
+        </attvalues>
+      </node>
+      <node id="Signs &amp; symbols" label="Signs &amp; symbols">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Signs &amp; symbols" />
+        </attvalues>
+      </node>
+      <node id="Darkness" label="Darkness">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Darkness" />
+        </attvalues>
+      </node>
+      <node id="Color" label="Color">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Color" />
+        </attvalues>
+      </node>
+      <node id="Cold" label="Cold">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Cold" />
+        </attvalues>
+      </node>
+      <node id="613f152f09f6e200217e84cc" label="613f152f09f6e200217e84cc">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="ENG" />
+        </attvalues>
+      </node>
+      <node id="613f152f09f6e200217e84c3" label="613f152f09f6e200217e84c3">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="ENG" />
+        </attvalues>
+      </node>
+      <node id="61310f855541390021bfea03" label="61310f855541390021bfea03">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="ENG" />
+        </attvalues>
+      </node>
+      <node id="61310f855541390021bfe9fa" label="61310f855541390021bfe9fa">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="ENG" />
+        </attvalues>
+      </node>
+      <node id="61310f845541390021bfe9f1" label="61310f845541390021bfe9f1">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="ENG" />
+        </attvalues>
+      </node>
+      <node id="Hidden gems" label="Hidden gems">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Hidden gems" />
+        </attvalues>
+      </node>
+      <node id="Housing" label="Housing">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Housing" />
+        </attvalues>
+      </node>
+      <node id="Street art" label="Street art">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Street art" />
+        </attvalues>
+      </node>
+      <node id="User experience" label="User experience">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="User experience" />
+        </attvalues>
+      </node>
+      <node id="61310f845541390021bfe9e8" label="61310f845541390021bfe9e8">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="ENG" />
+        </attvalues>
+      </node>
+      <node id="Nature" label="Nature">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Nature" />
+        </attvalues>
+      </node>
+      <node id="Drunk" label="Drunk">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Drunk" />
+        </attvalues>
+      </node>
+      <node id="Test " label="Test ">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Test " />
+        </attvalues>
+      </node>
+      <node id="Animal" label="Animal">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Animal" />
+        </attvalues>
+      </node>
+      <node id="6130e4875541390021bfcaa2" label="6130e4875541390021bfcaa2">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="DDL" />
+        </attvalues>
+      </node>
+      <node id="6130e4875541390021bfca99" label="6130e4875541390021bfca99">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="DDL" />
+        </attvalues>
+      </node>
+      <node id="6130e4875541390021bfca90" label="6130e4875541390021bfca90">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="DDL" />
+        </attvalues>
+      </node>
+      <node id="Oasis" label="Oasis">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Oasis" />
+        </attvalues>
+      </node>
+      <node id="Motion" label="Motion">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Motion" />
+        </attvalues>
+      </node>
+      <node id="Sociale klasser" label="Sociale klasser">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Sociale klasser" />
+        </attvalues>
+      </node>
+      <node id="Kontrolleret vildskab" label="Kontrolleret vildskab">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Kontrolleret vildskab" />
+        </attvalues>
+      </node>
+      <node id="Naturen" label="Naturen">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Naturen" />
+        </attvalues>
+      </node>
+      <node id="Kunst" label="Kunst">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Kunst" />
+        </attvalues>
+      </node>
+      <node id="HÃ¦rvÃ¦rk" label="HÃ¦rvÃ¦rk">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="HÃ¦rvÃ¦rk" />
+        </attvalues>
+      </node>
+      <node id="6130e4865541390021bfca7e" label="6130e4865541390021bfca7e">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="DDL" />
+        </attvalues>
+      </node>
+      <node id="6130dcf05541390021bfc8c3" label="6130dcf05541390021bfc8c3">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="DHF" />
+        </attvalues>
+      </node>
+      <node id="Historie" label="Historie">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Historie" />
+        </attvalues>
+      </node>
+      <node id="Sammenhold" label="Sammenhold">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Sammenhold" />
+        </attvalues>
+      </node>
+      <node id="SkÃ¦bner" label="SkÃ¦bner">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="SkÃ¦bner" />
+        </attvalues>
+      </node>
+      <node id="Gavlmalerier" label="Gavlmalerier">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Gavlmalerier" />
+        </attvalues>
+      </node>
+      <node id="Historier" label="Historier">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Historier" />
+        </attvalues>
+      </node>
+      <node id="Leg" label="Leg">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Leg" />
+        </attvalues>
+      </node>
+      <node id="6130dcf05541390021bfc8a8" label="6130dcf05541390021bfc8a8">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="DHF" />
+        </attvalues>
+      </node>
+      <node id="TrÃ¦t trÃ¦!" label="TrÃ¦t trÃ¦!">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="TrÃ¦t trÃ¦!" />
+        </attvalues>
+      </node>
+      <node id="6130dcef5541390021bfc88c" label="6130dcef5541390021bfc88c">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="SIND" />
+        </attvalues>
+      </node>
+      <node id="6130dcef5541390021bfc883" label="6130dcef5541390021bfc883">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="SIND" />
+        </attvalues>
+      </node>
+      <node id="6130dcee5541390021bfc87a" label="6130dcee5541390021bfc87a">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="SIND" />
+        </attvalues>
+      </node>
+      <node id="6130dcee5541390021bfc871" label="6130dcee5541390021bfc871">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="SIND" />
+        </attvalues>
+      </node>
+      <node id="6130dcee5541390021bfc868" label="6130dcee5541390021bfc868">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="SIND" />
+        </attvalues>
+      </node>
+      <node id="6130dcee5541390021bfc85f" label="6130dcee5541390021bfc85f">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="SIND" />
+        </attvalues>
+      </node>
+      <node id="6130dcee5541390021bfc856" label="6130dcee5541390021bfc856">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="SIND" />
+        </attvalues>
+      </node>
+      <node id="Historie " label="Historie ">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Historie " />
+        </attvalues>
+      </node>
+      <node id="6130dced5541390021bfc832" label="6130dced5541390021bfc832">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="LGBTQ" />
+        </attvalues>
+      </node>
+      <node id="Sea" label="Sea">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Sea" />
+        </attvalues>
+      </node>
+      <node id="Expensive " label="Expensive ">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Expensive " />
+        </attvalues>
+      </node>
+      <node id="Climate " label="Climate ">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Climate " />
+        </attvalues>
+      </node>
+      <node id="Sea " label="Sea ">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Sea " />
+        </attvalues>
+      </node>
+      <node id="Gentrification " label="Gentrification ">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Gentrification " />
+        </attvalues>
+      </node>
+      <node id="Expense " label="Expense ">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Expense " />
+        </attvalues>
+      </node>
+      <node id="Collectivism" label="Collectivism">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Collectivism" />
+        </attvalues>
+      </node>
+      <node id="6130dcec5541390021bfc820" label="6130dcec5541390021bfc820">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="LGBTQ" />
+        </attvalues>
+      </node>
+      <node id="6130dcec5541390021bfc817" label="6130dcec5541390021bfc817">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="LGBTQ" />
+        </attvalues>
+      </node>
+      <node id="TilgÃ¦ngelighed" label="TilgÃ¦ngelighed">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="TilgÃ¦ngelighed" />
+        </attvalues>
+      </node>
+      <node id="6130dcec5541390021bfc80e" label="6130dcec5541390021bfc80e">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="LGBTQ" />
+        </attvalues>
+      </node>
+      <node id="Tunnel" label="Tunnel">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Tunnel" />
+        </attvalues>
+      </node>
+      <node id="Trash" label="Trash">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Trash" />
+        </attvalues>
+      </node>
+      <node id="6130dcec5541390021bfc805" label="6130dcec5541390021bfc805">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="LGBTQ" />
+        </attvalues>
+      </node>
+      <node id="Natur i byen " label="Natur i byen ">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Natur i byen " />
+        </attvalues>
+      </node>
+      <node id="Dyr" label="Dyr">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Dyr" />
+        </attvalues>
+      </node>
+      <node id="6130dceb5541390021bfc7fc" label="6130dceb5541390021bfc7fc">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="LGBTQ" />
+        </attvalues>
+      </node>
+      <node id="Lys" label="Lys">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Lys" />
+        </attvalues>
+      </node>
+      <node id="6130dceb5541390021bfc7ea" label="6130dceb5541390021bfc7ea">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="MINO" />
+        </attvalues>
+      </node>
+      <node id="construction" label="construction">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="construction" />
+        </attvalues>
+      </node>
+      <node id="active mobility" label="active mobility">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="active mobility" />
+        </attvalues>
+      </node>
+      <node id="cars" label="cars">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="cars" />
+        </attvalues>
+      </node>
+      <node id="weather" label="weather">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="weather" />
+        </attvalues>
+      </node>
+      <node id="contrast " label="contrast ">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="contrast " />
+        </attvalues>
+      </node>
+      <node id="urban life" label="urban life">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="urban life" />
+        </attvalues>
+      </node>
+      <node id="crossroad" label="crossroad">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="crossroad" />
+        </attvalues>
+      </node>
+      <node id="dust" label="dust">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="dust" />
+        </attvalues>
+      </node>
+      <node id="colorful" label="colorful">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="colorful" />
+        </attvalues>
+      </node>
+      <node id="diversity" label="diversity">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="diversity" />
+        </attvalues>
+      </node>
+      <node id="street" label="street">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="street" />
+        </attvalues>
+      </node>
+      <node id="6130dceb5541390021bfc7d8" label="6130dceb5541390021bfc7d8">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="MINO" />
+        </attvalues>
+      </node>
+      <node id="Grit" label="Grit">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Grit" />
+        </attvalues>
+      </node>
+      <node id="Play" label="Play">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Play" />
+        </attvalues>
+      </node>
+      <node id="Childhood" label="Childhood">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Childhood" />
+        </attvalues>
+      </node>
+      <node id="Access" label="Access">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Access" />
+        </attvalues>
+      </node>
+      <node id="Service" label="Service">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Service" />
+        </attvalues>
+      </node>
+      <node id="Skat" label="Skat">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Skat" />
+        </attvalues>
+      </node>
+      <node id="Public cry" label="Public cry">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Public cry" />
+        </attvalues>
+      </node>
+      <node id="Public nap" label="Public nap">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Public nap" />
+        </attvalues>
+      </node>
+      <node id="Food" label="Food">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Food" />
+        </attvalues>
+      </node>
+      <node id="6130dcea5541390021bfc7cf" label="6130dcea5541390021bfc7cf">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="MINO" />
+        </attvalues>
+      </node>
+      <node id="Safety" label="Safety">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Safety" />
+        </attvalues>
+      </node>
+      <node id="6130dcea5541390021bfc7b4" label="6130dcea5541390021bfc7b4">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="MINO" />
+        </attvalues>
+      </node>
+      <node id="Nederen" label="Nederen">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Nederen" />
+        </attvalues>
+      </node>
+      <node id="Ingen parkering" label="Ingen parkering">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Ingen parkering" />
+        </attvalues>
+      </node>
+      <node id="Utrygt" label="Utrygt">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Utrygt" />
+        </attvalues>
+      </node>
+      <node id="Utryg" label="Utryg">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Utryg" />
+        </attvalues>
+      </node>
+      <node id="6130dce95541390021bfc799" label="6130dce95541390021bfc799">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="HUGS" />
+        </attvalues>
+      </node>
+      <node id="Se det uden planterne :-)" label="Se det uden planterne :-)">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Se det uden planterne :-)" />
+        </attvalues>
+      </node>
+      <node id="6130dce95541390021bfc790" label="6130dce95541390021bfc790">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="HUGS" />
+        </attvalues>
+      </node>
+      <node id="Neutral " label="Neutral ">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Neutral " />
+        </attvalues>
+      </node>
+      <node id="Same as " label="Same as ">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Same as " />
+        </attvalues>
+      </node>
+      <node id="Same as" label="Same as">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Same as" />
+        </attvalues>
+      </node>
+      <node id="Sport" label="Sport">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Sport" />
+        </attvalues>
+      </node>
+      <node id="Neutral" label="Neutral">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Neutral" />
+        </attvalues>
+      </node>
+      <node id="Ships;)" label="Ships;)">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Ships;)" />
+        </attvalues>
+      </node>
+      <node id="Birds" label="Birds">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Birds" />
+        </attvalues>
+      </node>
+      <node id="Toalet" label="Toalet">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Toalet" />
+        </attvalues>
+      </node>
+      <node id="Simphatic people;)" label="Simphatic people;)">
+        <attvalues>
+          <attvalue for="0" value="tag" />
+          <attvalue for="2" value="Simphatic people;)" />
+        </attvalues>
+      </node>
+      <node id="6130dce85541390021bfc77e" label="6130dce85541390021bfc77e">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="HUGS" />
+        </attvalues>
+      </node>
+      <node id="6130dce85541390021bfc775" label="6130dce85541390021bfc775">
+        <attvalues>
+          <attvalue for="0" value="user" />
+          <attvalue for="1" value="HUGS" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="613f152f09f6e200217e84de" target="Urban Environment" id="0">
+        <attvalues>
+          <attvalue for="3" value="80" />
+          <attvalue for="4" value="0.5128205128205128" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="Infrastructure" id="1">
+        <attvalues>
+          <attvalue for="3" value="27" />
+          <attvalue for="4" value="0.17307692307692307" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="Architecture" id="2">
+        <attvalues>
+          <attvalue for="3" value="24" />
+          <attvalue for="4" value="0.15384615384615385" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="Objects" id="3">
+        <attvalues>
+          <attvalue for="3" value="19" />
+          <attvalue for="4" value="0.12179487179487179" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="Urban Nature" id="4">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.08974358974358974" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="Atmosphere" id="5">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="People /community" id="6">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.04487179487179487" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="Consumption" id="7">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.038461538461538464" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="Don't know" id="8">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.019230769230769232" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="Memories &amp; associations" id="9">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.00641025641025641" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="Smell" id="10">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.00641025641025641" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="Sound" id="11">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.00641025641025641" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="Statue" id="12">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.00641025641025641" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="The most horrible pedestrian crossing" id="13">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.00641025641025641" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="Culture" id="14">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.00641025641025641" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84de" target="Wind &amp; Weather" id="15">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.00641025641025641" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Urban Environment" id="16">
+        <attvalues>
+          <attvalue for="3" value="82" />
+          <attvalue for="4" value="0.47126436781609193" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Atmosphere" id="17">
+        <attvalues>
+          <attvalue for="3" value="80" />
+          <attvalue for="4" value="0.45977011494252873" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Infrastructure" id="18">
+        <attvalues>
+          <attvalue for="3" value="49" />
+          <attvalue for="4" value="0.28160919540229884" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Culture" id="19">
+        <attvalues>
+          <attvalue for="3" value="37" />
+          <attvalue for="4" value="0.21264367816091953" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Objects" id="20">
+        <attvalues>
+          <attvalue for="3" value="30" />
+          <attvalue for="4" value="0.1724137931034483" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Architecture" id="21">
+        <attvalues>
+          <attvalue for="3" value="28" />
+          <attvalue for="4" value="0.16091954022988506" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Urban Nature" id="22">
+        <attvalues>
+          <attvalue for="3" value="26" />
+          <attvalue for="4" value="0.14942528735632185" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Wind &amp; Weather" id="23">
+        <attvalues>
+          <attvalue for="3" value="20" />
+          <attvalue for="4" value="0.11494252873563218" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="People /community" id="24">
+        <attvalues>
+          <attvalue for="3" value="17" />
+          <attvalue for="4" value="0.09770114942528736" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Metal" id="25">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.08045977011494253" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Grey" id="26">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.08045977011494253" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Test" id="27">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.06896551724137931" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Memories &amp; associations" id="28">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.06321839080459771" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Language" id="29">
+        <attvalues>
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="0.05747126436781609" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Don't know" id="30">
+        <attvalues>
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="0.05172413793103448" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Dark" id="31">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.040229885057471264" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Signs &amp; symbols" id="32">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.034482758620689655" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Darkness" id="33">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.034482758620689655" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Color" id="34">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.028735632183908046" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84d5" target="Cold" id="35">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.028735632183908046" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84cc" target="Urban Environment" id="36">
+        <attvalues>
+          <attvalue for="3" value="50" />
+          <attvalue for="4" value="0.4716981132075472" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84cc" target="Architecture" id="37">
+        <attvalues>
+          <attvalue for="3" value="34" />
+          <attvalue for="4" value="0.32075471698113206" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84cc" target="Infrastructure" id="38">
+        <attvalues>
+          <attvalue for="3" value="26" />
+          <attvalue for="4" value="0.24528301886792453" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84cc" target="People /community" id="39">
+        <attvalues>
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="0.14150943396226415" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84cc" target="Signs &amp; symbols" id="40">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.10377358490566038" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84cc" target="Consumption" id="41">
+        <attvalues>
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="0.07547169811320754" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84cc" target="Urban Nature" id="42">
+        <attvalues>
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="0.07547169811320754" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84cc" target="Objects" id="43">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.03773584905660377" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84cc" target="Don't know" id="44">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.02830188679245283" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84cc" target="Culture" id="45">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.009433962264150943" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84cc" target="Atmosphere" id="46">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.009433962264150943" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84c3" target="Urban Environment" id="47">
+        <attvalues>
+          <attvalue for="3" value="66" />
+          <attvalue for="4" value="0.7857142857142857" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84c3" target="Architecture" id="48">
+        <attvalues>
+          <attvalue for="3" value="39" />
+          <attvalue for="4" value="0.4642857142857143" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84c3" target="Objects" id="49">
+        <attvalues>
+          <attvalue for="3" value="23" />
+          <attvalue for="4" value="0.27380952380952384" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84c3" target="Atmosphere" id="50">
+        <attvalues>
+          <attvalue for="3" value="23" />
+          <attvalue for="4" value="0.27380952380952384" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84c3" target="Infrastructure" id="51">
+        <attvalues>
+          <attvalue for="3" value="21" />
+          <attvalue for="4" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84c3" target="People /community" id="52">
+        <attvalues>
+          <attvalue for="3" value="20" />
+          <attvalue for="4" value="0.23809523809523808" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84c3" target="Culture" id="53">
+        <attvalues>
+          <attvalue for="3" value="19" />
+          <attvalue for="4" value="0.2261904761904762" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84c3" target="Urban Nature" id="54">
+        <attvalues>
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="0.15476190476190477" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84c3" target="Signs &amp; symbols" id="55">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84c3" target="Consumption" id="56">
+        <attvalues>
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="0.11904761904761904" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84c3" target="Wind &amp; Weather" id="57">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84c3" target="Memories &amp; associations" id="58">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.047619047619047616" />
+        </attvalues>
+      </edge>
+      <edge source="613f152f09f6e200217e84c3" target="Don't know" id="59">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.047619047619047616" />
+        </attvalues>
+      </edge>
+      <edge source="61310f855541390021bfea03" target="People /community" id="60">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="61310f855541390021bfea03" target="Memories &amp; associations" id="61">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="61310f855541390021bfea03" target="Objects" id="62">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="61310f855541390021bfea03" target="Wind &amp; Weather" id="63">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="61310f855541390021bfe9fa" target="Consumption" id="64">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="61310f855541390021bfe9fa" target="Objects" id="65">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="People /community" id="66">
+        <attvalues>
+          <attvalue for="3" value="77" />
+          <attvalue for="4" value="0.8279569892473119" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Urban Environment" id="67">
+        <attvalues>
+          <attvalue for="3" value="55" />
+          <attvalue for="4" value="0.5913978494623656" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Memories &amp; associations" id="68">
+        <attvalues>
+          <attvalue for="3" value="38" />
+          <attvalue for="4" value="0.40860215053763443" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Infrastructure" id="69">
+        <attvalues>
+          <attvalue for="3" value="37" />
+          <attvalue for="4" value="0.3978494623655914" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Architecture" id="70">
+        <attvalues>
+          <attvalue for="3" value="31" />
+          <attvalue for="4" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Culture" id="71">
+        <attvalues>
+          <attvalue for="3" value="31" />
+          <attvalue for="4" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Atmosphere" id="72">
+        <attvalues>
+          <attvalue for="3" value="24" />
+          <attvalue for="4" value="0.25806451612903225" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Objects" id="73">
+        <attvalues>
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="0.17204301075268819" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Consumption" id="74">
+        <attvalues>
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="0.17204301075268819" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Signs &amp; symbols" id="75">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.15053763440860216" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Urban Nature" id="76">
+        <attvalues>
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="0.13978494623655913" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Wind &amp; Weather" id="77">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.06451612903225806" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Don't know" id="78">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.043010752688172046" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Hidden gems" id="79">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010752688172043012" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Housing" id="80">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010752688172043012" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="Street art" id="81">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010752688172043012" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9f1" target="User experience" id="82">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010752688172043012" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Urban Environment" id="83">
+        <attvalues>
+          <attvalue for="3" value="188" />
+          <attvalue for="4" value="0.29513343799058084" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Urban Nature" id="84">
+        <attvalues>
+          <attvalue for="3" value="152" />
+          <attvalue for="4" value="0.23861852433281006" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Architecture" id="85">
+        <attvalues>
+          <attvalue for="3" value="99" />
+          <attvalue for="4" value="0.1554160125588697" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Infrastructure" id="86">
+        <attvalues>
+          <attvalue for="3" value="97" />
+          <attvalue for="4" value="0.152276295133438" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="People /community" id="87">
+        <attvalues>
+          <attvalue for="3" value="75" />
+          <attvalue for="4" value="0.11773940345368916" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Consumption" id="88">
+        <attvalues>
+          <attvalue for="3" value="62" />
+          <attvalue for="4" value="0.09733124018838304" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Signs &amp; symbols" id="89">
+        <attvalues>
+          <attvalue for="3" value="54" />
+          <attvalue for="4" value="0.0847723704866562" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Objects" id="90">
+        <attvalues>
+          <attvalue for="3" value="54" />
+          <attvalue for="4" value="0.0847723704866562" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Don't know" id="91">
+        <attvalues>
+          <attvalue for="3" value="43" />
+          <attvalue for="4" value="0.06750392464678179" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Culture" id="92">
+        <attvalues>
+          <attvalue for="3" value="30" />
+          <attvalue for="4" value="0.04709576138147567" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Wind &amp; Weather" id="93">
+        <attvalues>
+          <attvalue for="3" value="27" />
+          <attvalue for="4" value="0.0423861852433281" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Atmosphere" id="94">
+        <attvalues>
+          <attvalue for="3" value="22" />
+          <attvalue for="4" value="0.03453689167974882" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Memories &amp; associations" id="95">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.018838304552590265" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Test" id="96">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.009419152276295133" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Nature" id="97">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.0015698587127158557" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Drunk" id="98">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.0015698587127158557" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Test " id="99">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.0015698587127158557" />
+        </attvalues>
+      </edge>
+      <edge source="61310f845541390021bfe9e8" target="Animal" id="100">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.0015698587127158557" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfcaa2" target="People /community" id="101">
+        <attvalues>
+          <attvalue for="3" value="32" />
+          <attvalue for="4" value="0.34782608695652173" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfcaa2" target="Atmosphere" id="102">
+        <attvalues>
+          <attvalue for="3" value="27" />
+          <attvalue for="4" value="0.29347826086956524" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfcaa2" target="Culture" id="103">
+        <attvalues>
+          <attvalue for="3" value="24" />
+          <attvalue for="4" value="0.2608695652173913" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfcaa2" target="Architecture" id="104">
+        <attvalues>
+          <attvalue for="3" value="21" />
+          <attvalue for="4" value="0.22826086956521738" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfcaa2" target="Signs &amp; symbols" id="105">
+        <attvalues>
+          <attvalue for="3" value="19" />
+          <attvalue for="4" value="0.20652173913043478" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfcaa2" target="Don't know" id="106">
+        <attvalues>
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="0.16304347826086957" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfcaa2" target="Urban Nature" id="107">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.15217391304347827" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfcaa2" target="Urban Environment" id="108">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.07608695652173914" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfcaa2" target="Wind &amp; Weather" id="109">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.07608695652173914" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfcaa2" target="Infrastructure" id="110">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.06521739130434782" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfcaa2" target="Objects" id="111">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.06521739130434782" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfcaa2" target="Memories &amp; associations" id="112">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.05434782608695652" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca99" target="Atmosphere" id="113">
+        <attvalues>
+          <attvalue for="3" value="286" />
+          <attvalue for="4" value="0.29213483146067415" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca99" target="Don't know" id="114">
+        <attvalues>
+          <attvalue for="3" value="248" />
+          <attvalue for="4" value="0.2533197139938713" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca99" target="People /community" id="115">
+        <attvalues>
+          <attvalue for="3" value="142" />
+          <attvalue for="4" value="0.14504596527068436" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca99" target="Infrastructure" id="116">
+        <attvalues>
+          <attvalue for="3" value="130" />
+          <attvalue for="4" value="0.13278855975485188" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca99" target="Urban Nature" id="117">
+        <attvalues>
+          <attvalue for="3" value="100" />
+          <attvalue for="4" value="0.10214504596527069" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca99" target="Objects" id="118">
+        <attvalues>
+          <attvalue for="3" value="92" />
+          <attvalue for="4" value="0.09397344228804903" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca99" target="Architecture" id="119">
+        <attvalues>
+          <attvalue for="3" value="88" />
+          <attvalue for="4" value="0.0898876404494382" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca99" target="Consumption" id="120">
+        <attvalues>
+          <attvalue for="3" value="43" />
+          <attvalue for="4" value="0.043922369765066395" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca99" target="Wind &amp; Weather" id="121">
+        <attvalues>
+          <attvalue for="3" value="27" />
+          <attvalue for="4" value="0.027579162410623085" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca99" target="Signs &amp; symbols" id="122">
+        <attvalues>
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="0.01634320735444331" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca99" target="Urban Environment" id="123">
+        <attvalues>
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="0.010214504596527068" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca99" target="Culture" id="124">
+        <attvalues>
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="0.010214504596527068" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca99" target="Memories &amp; associations" id="125">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.0040858018386108275" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Atmosphere" id="126">
+        <attvalues>
+          <attvalue for="3" value="25" />
+          <attvalue for="4" value="0.3048780487804878" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Urban Environment" id="127">
+        <attvalues>
+          <attvalue for="3" value="20" />
+          <attvalue for="4" value="0.24390243902439024" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="People /community" id="128">
+        <attvalues>
+          <attvalue for="3" value="18" />
+          <attvalue for="4" value="0.21951219512195122" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Don't know" id="129">
+        <attvalues>
+          <attvalue for="3" value="18" />
+          <attvalue for="4" value="0.21951219512195122" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Urban Nature" id="130">
+        <attvalues>
+          <attvalue for="3" value="17" />
+          <attvalue for="4" value="0.2073170731707317" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Infrastructure" id="131">
+        <attvalues>
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="0.15853658536585366" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Consumption" id="132">
+        <attvalues>
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="0.15853658536585366" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Memories &amp; associations" id="133">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.14634146341463414" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Objects" id="134">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.13414634146341464" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Architecture" id="135">
+        <attvalues>
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="0.10975609756097561" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Signs &amp; symbols" id="136">
+        <attvalues>
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="0.10975609756097561" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Wind &amp; Weather" id="137">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.08536585365853659" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Culture" id="138">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.08536585365853659" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Oasis" id="139">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.036585365853658534" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Motion" id="140">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.024390243902439025" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Sociale klasser" id="141">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.012195121951219513" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Kontrolleret vildskab" id="142">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.012195121951219513" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Naturen" id="143">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.012195121951219513" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="Kunst" id="144">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.012195121951219513" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4875541390021bfca90" target="HÃ¦rvÃ¦rk" id="145">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.012195121951219513" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4865541390021bfca7e" target="People /community" id="146">
+        <attvalues>
+          <attvalue for="3" value="39" />
+          <attvalue for="4" value="0.23214285714285715" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4865541390021bfca7e" target="Objects" id="147">
+        <attvalues>
+          <attvalue for="3" value="28" />
+          <attvalue for="4" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4865541390021bfca7e" target="Architecture" id="148">
+        <attvalues>
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="0.09523809523809523" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4865541390021bfca7e" target="Culture" id="149">
+        <attvalues>
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="0.08928571428571429" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4865541390021bfca7e" target="Consumption" id="150">
+        <attvalues>
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="0.08928571428571429" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4865541390021bfca7e" target="Wind &amp; Weather" id="151">
+        <attvalues>
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="0.07738095238095238" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4865541390021bfca7e" target="Signs &amp; symbols" id="152">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4865541390021bfca7e" target="Memories &amp; associations" id="153">
+        <attvalues>
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="0.047619047619047616" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4865541390021bfca7e" target="Urban Environment" id="154">
+        <attvalues>
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="0.047619047619047616" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4865541390021bfca7e" target="Don't know" id="155">
+        <attvalues>
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="0.047619047619047616" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4865541390021bfca7e" target="Atmosphere" id="156">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4865541390021bfca7e" target="Urban Nature" id="157">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.02976190476190476" />
+        </attvalues>
+      </edge>
+      <edge source="6130e4865541390021bfca7e" target="Infrastructure" id="158">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.023809523809523808" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Atmosphere" id="159">
+        <attvalues>
+          <attvalue for="3" value="611" />
+          <attvalue for="4" value="0.41993127147766324" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="People /community" id="160">
+        <attvalues>
+          <attvalue for="3" value="589" />
+          <attvalue for="4" value="0.4048109965635739" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Memories &amp; associations" id="161">
+        <attvalues>
+          <attvalue for="3" value="570" />
+          <attvalue for="4" value="0.3917525773195876" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Don't know" id="162">
+        <attvalues>
+          <attvalue for="3" value="531" />
+          <attvalue for="4" value="0.3649484536082474" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Architecture" id="163">
+        <attvalues>
+          <attvalue for="3" value="480" />
+          <attvalue for="4" value="0.32989690721649484" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Wind &amp; Weather" id="164">
+        <attvalues>
+          <attvalue for="3" value="427" />
+          <attvalue for="4" value="0.2934707903780069" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Consumption" id="165">
+        <attvalues>
+          <attvalue for="3" value="365" />
+          <attvalue for="4" value="0.2508591065292096" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Culture" id="166">
+        <attvalues>
+          <attvalue for="3" value="356" />
+          <attvalue for="4" value="0.24467353951890033" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Urban Nature" id="167">
+        <attvalues>
+          <attvalue for="3" value="235" />
+          <attvalue for="4" value="0.16151202749140894" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Infrastructure" id="168">
+        <attvalues>
+          <attvalue for="3" value="180" />
+          <attvalue for="4" value="0.12371134020618557" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Urban Environment" id="169">
+        <attvalues>
+          <attvalue for="3" value="168" />
+          <attvalue for="4" value="0.1154639175257732" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Signs &amp; symbols" id="170">
+        <attvalues>
+          <attvalue for="3" value="51" />
+          <attvalue for="4" value="0.03505154639175258" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Objects" id="171">
+        <attvalues>
+          <attvalue for="3" value="45" />
+          <attvalue for="4" value="0.030927835051546393" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Kunst" id="172">
+        <attvalues>
+          <attvalue for="3" value="35" />
+          <attvalue for="4" value="0.024054982817869417" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Historie" id="173">
+        <attvalues>
+          <attvalue for="3" value="19" />
+          <attvalue for="4" value="0.013058419243986255" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Sammenhold" id="174">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.008247422680412371" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="SkÃ¦bner" id="175">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.007560137457044674" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Gavlmalerier" id="176">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.007560137457044674" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Historier" id="177">
+        <attvalues>
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="0.006872852233676976" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8c3" target="Leg" id="178">
+        <attvalues>
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="0.006185567010309278" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="Urban Environment" id="179">
+        <attvalues>
+          <attvalue for="3" value="98" />
+          <attvalue for="4" value="0.765625" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="Atmosphere" id="180">
+        <attvalues>
+          <attvalue for="3" value="83" />
+          <attvalue for="4" value="0.6484375" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="People /community" id="181">
+        <attvalues>
+          <attvalue for="3" value="79" />
+          <attvalue for="4" value="0.6171875" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="Culture" id="182">
+        <attvalues>
+          <attvalue for="3" value="73" />
+          <attvalue for="4" value="0.5703125" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="Urban Nature" id="183">
+        <attvalues>
+          <attvalue for="3" value="51" />
+          <attvalue for="4" value="0.3984375" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="Infrastructure" id="184">
+        <attvalues>
+          <attvalue for="3" value="33" />
+          <attvalue for="4" value="0.2578125" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="Architecture" id="185">
+        <attvalues>
+          <attvalue for="3" value="26" />
+          <attvalue for="4" value="0.203125" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="Consumption" id="186">
+        <attvalues>
+          <attvalue for="3" value="26" />
+          <attvalue for="4" value="0.203125" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="Objects" id="187">
+        <attvalues>
+          <attvalue for="3" value="19" />
+          <attvalue for="4" value="0.1484375" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="Wind &amp; Weather" id="188">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.09375" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="Signs &amp; symbols" id="189">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.0859375" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="Memories &amp; associations" id="190">
+        <attvalues>
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="Don't know" id="191">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.0390625" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcf05541390021bfc8a8" target="TrÃ¦t trÃ¦!" id="192">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.0078125" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc88c" target="Urban Environment" id="193">
+        <attvalues>
+          <attvalue for="3" value="44" />
+          <attvalue for="4" value="0.5569620253164557" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc88c" target="Architecture" id="194">
+        <attvalues>
+          <attvalue for="3" value="29" />
+          <attvalue for="4" value="0.3670886075949367" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc88c" target="People /community" id="195">
+        <attvalues>
+          <attvalue for="3" value="22" />
+          <attvalue for="4" value="0.27848101265822783" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc88c" target="Urban Nature" id="196">
+        <attvalues>
+          <attvalue for="3" value="19" />
+          <attvalue for="4" value="0.24050632911392406" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc88c" target="Signs &amp; symbols" id="197">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.1518987341772152" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc88c" target="Wind &amp; Weather" id="198">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.1518987341772152" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc88c" target="Infrastructure" id="199">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.13924050632911392" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc88c" target="Culture" id="200">
+        <attvalues>
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="0.12658227848101267" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc88c" target="Atmosphere" id="201">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.08860759493670886" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc88c" target="Memories &amp; associations" id="202">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.06329113924050633" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc88c" target="Objects" id="203">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.0379746835443038" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc88c" target="Consumption" id="204">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.0379746835443038" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc88c" target="Don't know" id="205">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.02531645569620253" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc883" target="Culture" id="206">
+        <attvalues>
+          <attvalue for="3" value="18" />
+          <attvalue for="4" value="0.6" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc883" target="Urban Nature" id="207">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.4666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc883" target="People /community" id="208">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.4666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc883" target="Urban Environment" id="209">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.36666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc883" target="Wind &amp; Weather" id="210">
+        <attvalues>
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc883" target="Architecture" id="211">
+        <attvalues>
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="0.3" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc883" target="Atmosphere" id="212">
+        <attvalues>
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="0.26666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc883" target="Consumption" id="213">
+        <attvalues>
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="0.26666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc883" target="Memories &amp; associations" id="214">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc883" target="Objects" id="215">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc883" target="Test" id="216">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.03333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcef5541390021bfc883" target="Infrastructure" id="217">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.03333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc87a" target="Objects" id="218">
+        <attvalues>
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="0.32" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc87a" target="People /community" id="219">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.14" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc87a" target="Urban Environment" id="220">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.14" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc87a" target="Architecture" id="221">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.08" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc87a" target="Culture" id="222">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.08" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc87a" target="Consumption" id="223">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.06" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc87a" target="Signs &amp; symbols" id="224">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.06" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc87a" target="Urban Nature" id="225">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc87a" target="Atmosphere" id="226">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc87a" target="Infrastructure" id="227">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.02" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc87a" target="Wind &amp; Weather" id="228">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.02" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc87a" target="Memories &amp; associations" id="229">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.02" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc871" target="Urban Environment" id="230">
+        <attvalues>
+          <attvalue for="3" value="45" />
+          <attvalue for="4" value="0.5232558139534884" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc871" target="Atmosphere" id="231">
+        <attvalues>
+          <attvalue for="3" value="45" />
+          <attvalue for="4" value="0.5232558139534884" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc871" target="Architecture" id="232">
+        <attvalues>
+          <attvalue for="3" value="33" />
+          <attvalue for="4" value="0.38372093023255816" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc871" target="People /community" id="233">
+        <attvalues>
+          <attvalue for="3" value="31" />
+          <attvalue for="4" value="0.36046511627906974" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc871" target="Infrastructure" id="234">
+        <attvalues>
+          <attvalue for="3" value="29" />
+          <attvalue for="4" value="0.3372093023255814" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc871" target="Objects" id="235">
+        <attvalues>
+          <attvalue for="3" value="27" />
+          <attvalue for="4" value="0.313953488372093" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc871" target="Memories &amp; associations" id="236">
+        <attvalues>
+          <attvalue for="3" value="22" />
+          <attvalue for="4" value="0.2558139534883721" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc871" target="Urban Nature" id="237">
+        <attvalues>
+          <attvalue for="3" value="21" />
+          <attvalue for="4" value="0.2441860465116279" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc871" target="Wind &amp; Weather" id="238">
+        <attvalues>
+          <attvalue for="3" value="18" />
+          <attvalue for="4" value="0.20930232558139536" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc871" target="Signs &amp; symbols" id="239">
+        <attvalues>
+          <attvalue for="3" value="17" />
+          <attvalue for="4" value="0.19767441860465115" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc871" target="Consumption" id="240">
+        <attvalues>
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="0.1744186046511628" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc871" target="Culture" id="241">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.12790697674418605" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc871" target="Don't know" id="242">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.023255813953488372" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc868" target="Urban Environment" id="243">
+        <attvalues>
+          <attvalue for="3" value="28" />
+          <attvalue for="4" value="0.49122807017543857" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc868" target="Atmosphere" id="244">
+        <attvalues>
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="0.2807017543859649" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc868" target="Architecture" id="245">
+        <attvalues>
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="0.2807017543859649" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc868" target="People /community" id="246">
+        <attvalues>
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="0.2631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc868" target="Urban Nature" id="247">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.24561403508771928" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc868" target="Infrastructure" id="248">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.24561403508771928" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc868" target="Objects" id="249">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.12280701754385964" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc868" target="Culture" id="250">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.08771929824561403" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc868" target="Consumption" id="251">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.03508771929824561" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc868" target="Memories &amp; associations" id="252">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.03508771929824561" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc85f" target="Don't know" id="253">
+        <attvalues>
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="0.2903225806451613" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc85f" target="Atmosphere" id="254">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.22580645161290322" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc85f" target="Culture" id="255">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.12903225806451613" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc85f" target="Urban Environment" id="256">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.12903225806451613" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc85f" target="Consumption" id="257">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.06451612903225806" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc85f" target="Urban Nature" id="258">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.06451612903225806" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc85f" target="Signs &amp; symbols" id="259">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.03225806451612903" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc85f" target="Objects" id="260">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.03225806451612903" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc85f" target="Architecture" id="261">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.03225806451612903" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc85f" target="People /community" id="262">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.03225806451612903" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="Urban Environment" id="263">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.7058823529411765" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="Atmosphere" id="264">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.7058823529411765" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="Urban Nature" id="265">
+        <attvalues>
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="0.5294117647058824" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="Architecture" id="266">
+        <attvalues>
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="0.5294117647058824" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="Culture" id="267">
+        <attvalues>
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="0.5294117647058824" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="People /community" id="268">
+        <attvalues>
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="0.47058823529411764" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="Memories &amp; associations" id="269">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.4117647058823529" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="Wind &amp; Weather" id="270">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.23529411764705882" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="Historie" id="271">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="Consumption" id="272">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="Objects" id="273">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="Infrastructure" id="274">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.17647058823529413" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="Signs &amp; symbols" id="275">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.11764705882352941" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcee5541390021bfc856" target="Historie " id="276">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Urban Environment" id="277">
+        <attvalues>
+          <attvalue for="3" value="29" />
+          <attvalue for="4" value="0.5087719298245614" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Atmosphere" id="278">
+        <attvalues>
+          <attvalue for="3" value="22" />
+          <attvalue for="4" value="0.38596491228070173" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Architecture" id="279">
+        <attvalues>
+          <attvalue for="3" value="17" />
+          <attvalue for="4" value="0.2982456140350877" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Infrastructure" id="280">
+        <attvalues>
+          <attvalue for="3" value="17" />
+          <attvalue for="4" value="0.2982456140350877" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Urban Nature" id="281">
+        <attvalues>
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="0.2631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="People /community" id="282">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.19298245614035087" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Consumption" id="283">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.12280701754385964" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Memories &amp; associations" id="284">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.12280701754385964" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Objects" id="285">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.10526315789473684" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Wind &amp; Weather" id="286">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.10526315789473684" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Culture" id="287">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.07017543859649122" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Signs &amp; symbols" id="288">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.07017543859649122" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Sea" id="289">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.07017543859649122" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Expensive " id="290">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.05263157894736842" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Don't know" id="291">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.03508771929824561" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Climate " id="292">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.017543859649122806" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Sea " id="293">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.017543859649122806" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Gentrification " id="294">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.017543859649122806" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Expense " id="295">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.017543859649122806" />
+        </attvalues>
+      </edge>
+      <edge source="6130dced5541390021bfc832" target="Collectivism" id="296">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.017543859649122806" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc820" target="Urban Environment" id="297">
+        <attvalues>
+          <attvalue for="3" value="56" />
+          <attvalue for="4" value="0.29473684210526313" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc820" target="People /community" id="298">
+        <attvalues>
+          <attvalue for="3" value="46" />
+          <attvalue for="4" value="0.24210526315789474" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc820" target="Urban Nature" id="299">
+        <attvalues>
+          <attvalue for="3" value="42" />
+          <attvalue for="4" value="0.22105263157894736" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc820" target="Don't know" id="300">
+        <attvalues>
+          <attvalue for="3" value="38" />
+          <attvalue for="4" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc820" target="Architecture" id="301">
+        <attvalues>
+          <attvalue for="3" value="31" />
+          <attvalue for="4" value="0.1631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc820" target="Infrastructure" id="302">
+        <attvalues>
+          <attvalue for="3" value="28" />
+          <attvalue for="4" value="0.14736842105263157" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc820" target="Atmosphere" id="303">
+        <attvalues>
+          <attvalue for="3" value="26" />
+          <attvalue for="4" value="0.1368421052631579" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc820" target="Signs &amp; symbols" id="304">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.05789473684210526" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc820" target="Objects" id="305">
+        <attvalues>
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="0.042105263157894736" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc820" target="Memories &amp; associations" id="306">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.021052631578947368" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc820" target="Culture" id="307">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.015789473684210527" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc820" target="Wind &amp; Weather" id="308">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.015789473684210527" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc820" target="Consumption" id="309">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.010526315789473684" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc817" target="Urban Environment" id="310">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.42424242424242425" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc817" target="Atmosphere" id="311">
+        <attvalues>
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="0.3939393939393939" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc817" target="Architecture" id="312">
+        <attvalues>
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="0.24242424242424243" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc817" target="Urban Nature" id="313">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.18181818181818182" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc817" target="TilgÃ¦ngelighed" id="314">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.12121212121212122" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc817" target="Don't know" id="315">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.12121212121212122" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc817" target="People /community" id="316">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc817" target="Infrastructure" id="317">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc817" target="Wind &amp; Weather" id="318">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.06060606060606061" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc817" target="Memories &amp; associations" id="319">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.06060606060606061" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc817" target="Culture" id="320">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.06060606060606061" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc817" target="Signs &amp; symbols" id="321">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.030303030303030304" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc80e" target="Urban Environment" id="322">
+        <attvalues>
+          <attvalue for="3" value="18" />
+          <attvalue for="4" value="0.3" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc80e" target="Atmosphere" id="323">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.23333333333333334" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc80e" target="Architecture" id="324">
+        <attvalues>
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="0.21666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc80e" target="Urban Nature" id="325">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc80e" target="Consumption" id="326">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc80e" target="Infrastructure" id="327">
+        <attvalues>
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="0.15" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc80e" target="Signs &amp; symbols" id="328">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc80e" target="Memories &amp; associations" id="329">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc80e" target="Wind &amp; Weather" id="330">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc80e" target="People /community" id="331">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc80e" target="Culture" id="332">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc80e" target="Tunnel" id="333">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.016666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc80e" target="Trash" id="334">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.016666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Urban Environment" id="335">
+        <attvalues>
+          <attvalue for="3" value="95" />
+          <attvalue for="4" value="0.36964980544747084" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="People /community" id="336">
+        <attvalues>
+          <attvalue for="3" value="70" />
+          <attvalue for="4" value="0.2723735408560311" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Architecture" id="337">
+        <attvalues>
+          <attvalue for="3" value="58" />
+          <attvalue for="4" value="0.22568093385214008" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Culture" id="338">
+        <attvalues>
+          <attvalue for="3" value="56" />
+          <attvalue for="4" value="0.2178988326848249" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Infrastructure" id="339">
+        <attvalues>
+          <attvalue for="3" value="56" />
+          <attvalue for="4" value="0.2178988326848249" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Consumption" id="340">
+        <attvalues>
+          <attvalue for="3" value="54" />
+          <attvalue for="4" value="0.21011673151750973" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Urban Nature" id="341">
+        <attvalues>
+          <attvalue for="3" value="51" />
+          <attvalue for="4" value="0.19844357976653695" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Memories &amp; associations" id="342">
+        <attvalues>
+          <attvalue for="3" value="17" />
+          <attvalue for="4" value="0.06614785992217899" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Wind &amp; Weather" id="343">
+        <attvalues>
+          <attvalue for="3" value="17" />
+          <attvalue for="4" value="0.06614785992217899" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Objects" id="344">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.04669260700389105" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Atmosphere" id="345">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.04669260700389105" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Signs &amp; symbols" id="346">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.027237354085603113" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Natur i byen " id="347">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.007782101167315175" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Dyr" id="348">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.0038910505836575876" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcec5541390021bfc805" target="Don't know" id="349">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.0038910505836575876" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7fc" target="Memories &amp; associations" id="350">
+        <attvalues>
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="0.625" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7fc" target="Atmosphere" id="351">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.2916666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7fc" target="Don't know" id="352">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.20833333333333334" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7fc" target="Urban Environment" id="353">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7fc" target="Infrastructure" id="354">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7fc" target="Urban Nature" id="355">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7fc" target="Lys" id="356">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7fc" target="Architecture" id="357">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7fc" target="Wind &amp; Weather" id="358">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7fc" target="Objects" id="359">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7fc" target="Signs &amp; symbols" id="360">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7fc" target="Consumption" id="361">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="Urban Environment" id="362">
+        <attvalues>
+          <attvalue for="3" value="33" />
+          <attvalue for="4" value="0.35106382978723405" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="Architecture" id="363">
+        <attvalues>
+          <attvalue for="3" value="19" />
+          <attvalue for="4" value="0.20212765957446807" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="Urban Nature" id="364">
+        <attvalues>
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="0.1702127659574468" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="Infrastructure" id="365">
+        <attvalues>
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="0.13829787234042554" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="People /community" id="366">
+        <attvalues>
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="0.10638297872340426" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="Signs &amp; symbols" id="367">
+        <attvalues>
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0.07446808510638298" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="Consumption" id="368">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.05319148936170213" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="Memories &amp; associations" id="369">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.0425531914893617" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="construction" id="370">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.031914893617021274" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="active mobility" id="371">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.031914893617021274" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="Atmosphere" id="372">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.02127659574468085" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="cars" id="373">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.02127659574468085" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="weather" id="374">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.02127659574468085" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="contrast " id="375">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010638297872340425" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="urban life" id="376">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010638297872340425" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="crossroad" id="377">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010638297872340425" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="dust" id="378">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010638297872340425" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="colorful" id="379">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010638297872340425" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="diversity" id="380">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010638297872340425" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7ea" target="street" id="381">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010638297872340425" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Urban Environment" id="382">
+        <attvalues>
+          <attvalue for="3" value="39" />
+          <attvalue for="4" value="0.40625" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Atmosphere" id="383">
+        <attvalues>
+          <attvalue for="3" value="32" />
+          <attvalue for="4" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Memories &amp; associations" id="384">
+        <attvalues>
+          <attvalue for="3" value="31" />
+          <attvalue for="4" value="0.3229166666666667" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="People /community" id="385">
+        <attvalues>
+          <attvalue for="3" value="20" />
+          <attvalue for="4" value="0.20833333333333334" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Infrastructure" id="386">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.14583333333333334" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Consumption" id="387">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.14583333333333334" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Culture" id="388">
+        <attvalues>
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="0.13541666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Urban Nature" id="389">
+        <attvalues>
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Signs &amp; symbols" id="390">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Architecture" id="391">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Wind &amp; Weather" id="392">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.052083333333333336" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Grit" id="393">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.03125" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Play" id="394">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.020833333333333332" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Childhood" id="395">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.020833333333333332" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Access" id="396">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010416666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Service" id="397">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010416666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Skat" id="398">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010416666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Public cry" id="399">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010416666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Public nap" id="400">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010416666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="6130dceb5541390021bfc7d8" target="Food" id="401">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.010416666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Urban Environment" id="402">
+        <attvalues>
+          <attvalue for="3" value="391" />
+          <attvalue for="4" value="0.6337115072933549" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Urban Nature" id="403">
+        <attvalues>
+          <attvalue for="3" value="158" />
+          <attvalue for="4" value="0.2560777957860616" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Infrastructure" id="404">
+        <attvalues>
+          <attvalue for="3" value="141" />
+          <attvalue for="4" value="0.22852512155591573" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Architecture" id="405">
+        <attvalues>
+          <attvalue for="3" value="113" />
+          <attvalue for="4" value="0.18314424635332252" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="People /community" id="406">
+        <attvalues>
+          <attvalue for="3" value="110" />
+          <attvalue for="4" value="0.17828200972447325" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Atmosphere" id="407">
+        <attvalues>
+          <attvalue for="3" value="108" />
+          <attvalue for="4" value="0.17504051863857376" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Consumption" id="408">
+        <attvalues>
+          <attvalue for="3" value="77" />
+          <attvalue for="4" value="0.12479740680713128" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Culture" id="409">
+        <attvalues>
+          <attvalue for="3" value="54" />
+          <attvalue for="4" value="0.08752025931928688" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Memories &amp; associations" id="410">
+        <attvalues>
+          <attvalue for="3" value="54" />
+          <attvalue for="4" value="0.08752025931928688" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Objects" id="411">
+        <attvalues>
+          <attvalue for="3" value="47" />
+          <attvalue for="4" value="0.07617504051863858" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Signs &amp; symbols" id="412">
+        <attvalues>
+          <attvalue for="3" value="29" />
+          <attvalue for="4" value="0.04700162074554295" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Wind &amp; Weather" id="413">
+        <attvalues>
+          <attvalue for="3" value="14" />
+          <attvalue for="4" value="0.022690437601296597" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Don't know" id="414">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.019448946515397084" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Safety" id="415">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.004862236628849271" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7cf" target="Lys" id="416">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.0032414910858995136" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="People /community" id="417">
+        <attvalues>
+          <attvalue for="3" value="25" />
+          <attvalue for="4" value="0.3246753246753247" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Atmosphere" id="418">
+        <attvalues>
+          <attvalue for="3" value="24" />
+          <attvalue for="4" value="0.3116883116883117" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Architecture" id="419">
+        <attvalues>
+          <attvalue for="3" value="21" />
+          <attvalue for="4" value="0.2727272727272727" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Urban Environment" id="420">
+        <attvalues>
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="0.2077922077922078" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Urban Nature" id="421">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Memories &amp; associations" id="422">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Infrastructure" id="423">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Culture" id="424">
+        <attvalues>
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="0.12987012987012986" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Consumption" id="425">
+        <attvalues>
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="0.12987012987012986" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Signs &amp; symbols" id="426">
+        <attvalues>
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="0.11688311688311688" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Don't know" id="427">
+        <attvalues>
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="0.11688311688311688" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Objects" id="428">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.07792207792207792" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Wind &amp; Weather" id="429">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.03896103896103896" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Nederen" id="430">
+        <attvalues>
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="0.025974025974025976" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Ingen parkering" id="431">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.012987012987012988" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Utrygt" id="432">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.012987012987012988" />
+        </attvalues>
+      </edge>
+      <edge source="6130dcea5541390021bfc7b4" target="Utryg" id="433">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.012987012987012988" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc799" target="Atmosphere" id="434">
+        <attvalues>
+          <attvalue for="3" value="70" />
+          <attvalue for="4" value="0.8235294117647058" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc799" target="Architecture" id="435">
+        <attvalues>
+          <attvalue for="3" value="37" />
+          <attvalue for="4" value="0.43529411764705883" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc799" target="Memories &amp; associations" id="436">
+        <attvalues>
+          <attvalue for="3" value="33" />
+          <attvalue for="4" value="0.38823529411764707" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc799" target="Culture" id="437">
+        <attvalues>
+          <attvalue for="3" value="28" />
+          <attvalue for="4" value="0.32941176470588235" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc799" target="People /community" id="438">
+        <attvalues>
+          <attvalue for="3" value="27" />
+          <attvalue for="4" value="0.3176470588235294" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc799" target="Urban Environment" id="439">
+        <attvalues>
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="0.18823529411764706" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc799" target="Urban Nature" id="440">
+        <attvalues>
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0.1411764705882353" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc799" target="Objects" id="441">
+        <attvalues>
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0.12941176470588237" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc799" target="Signs &amp; symbols" id="442">
+        <attvalues>
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="0.09411764705882353" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc799" target="Wind &amp; Weather" id="443">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc799" target="Consumption" id="444">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc799" target="Infrastructure" id="445">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.047058823529411764" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc799" target="Se det uden planterne :-)" id="446">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.011764705882352941" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Atmosphere" id="447">
+        <attvalues>
+          <attvalue for="3" value="45" />
+          <attvalue for="4" value="0.6081081081081081" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Objects" id="448">
+        <attvalues>
+          <attvalue for="3" value="29" />
+          <attvalue for="4" value="0.3918918918918919" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Architecture" id="449">
+        <attvalues>
+          <attvalue for="3" value="24" />
+          <attvalue for="4" value="0.32432432432432434" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Infrastructure" id="450">
+        <attvalues>
+          <attvalue for="3" value="24" />
+          <attvalue for="4" value="0.32432432432432434" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Urban Nature" id="451">
+        <attvalues>
+          <attvalue for="3" value="23" />
+          <attvalue for="4" value="0.3108108108108108" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Culture" id="452">
+        <attvalues>
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="0.12162162162162163" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Signs &amp; symbols" id="453">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.08108108108108109" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="People /community" id="454">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.08108108108108109" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Neutral " id="455">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.06756756756756757" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Same as " id="456">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.05405405405405406" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Wind &amp; Weather" id="457">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.05405405405405406" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Urban Environment" id="458">
+        <attvalues>
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="0.05405405405405406" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Same as" id="459">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.04054054054054054" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Sport" id="460">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.04054054054054054" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Neutral" id="461">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.013513513513513514" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Ships;)" id="462">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.013513513513513514" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Birds" id="463">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.013513513513513514" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Toalet" id="464">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.013513513513513514" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Simphatic people;)" id="465">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.013513513513513514" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce95541390021bfc790" target="Don't know" id="466">
+        <attvalues>
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.013513513513513514" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc77e" target="Architecture" id="467">
+        <attvalues>
+          <attvalue for="3" value="37" />
+          <attvalue for="4" value="0.9024390243902439" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc77e" target="Urban Nature" id="468">
+        <attvalues>
+          <attvalue for="3" value="37" />
+          <attvalue for="4" value="0.9024390243902439" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc77e" target="Culture" id="469">
+        <attvalues>
+          <attvalue for="3" value="36" />
+          <attvalue for="4" value="0.8780487804878049" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc77e" target="Infrastructure" id="470">
+        <attvalues>
+          <attvalue for="3" value="21" />
+          <attvalue for="4" value="0.5121951219512195" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc77e" target="Consumption" id="471">
+        <attvalues>
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="0.3902439024390244" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc77e" target="Atmosphere" id="472">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.14634146341463414" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc77e" target="Memories &amp; associations" id="473">
+        <attvalues>
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0.14634146341463414" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc77e" target="People /community" id="474">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.12195121951219512" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc77e" target="Objects" id="475">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.12195121951219512" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc77e" target="Urban Environment" id="476">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.12195121951219512" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc77e" target="Signs &amp; symbols" id="477">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.12195121951219512" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc77e" target="Wind &amp; Weather" id="478">
+        <attvalues>
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="0.07317073170731707" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc775" target="Wind &amp; Weather" id="479">
+        <attvalues>
+          <attvalue for="3" value="34" />
+          <attvalue for="4" value="0.8947368421052632" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc775" target="People /community" id="480">
+        <attvalues>
+          <attvalue for="3" value="34" />
+          <attvalue for="4" value="0.8947368421052632" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc775" target="Urban Nature" id="481">
+        <attvalues>
+          <attvalue for="3" value="33" />
+          <attvalue for="4" value="0.868421052631579" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc775" target="Atmosphere" id="482">
+        <attvalues>
+          <attvalue for="3" value="32" />
+          <attvalue for="4" value="0.8421052631578947" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc775" target="Urban Environment" id="483">
+        <attvalues>
+          <attvalue for="3" value="31" />
+          <attvalue for="4" value="0.8157894736842105" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc775" target="Culture" id="484">
+        <attvalues>
+          <attvalue for="3" value="30" />
+          <attvalue for="4" value="0.7894736842105263" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc775" target="Consumption" id="485">
+        <attvalues>
+          <attvalue for="3" value="26" />
+          <attvalue for="4" value="0.6842105263157895" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc775" target="Memories &amp; associations" id="486">
+        <attvalues>
+          <attvalue for="3" value="24" />
+          <attvalue for="4" value="0.631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc775" target="Infrastructure" id="487">
+        <attvalues>
+          <attvalue for="3" value="22" />
+          <attvalue for="4" value="0.5789473684210527" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc775" target="Architecture" id="488">
+        <attvalues>
+          <attvalue for="3" value="21" />
+          <attvalue for="4" value="0.5526315789473685" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc775" target="Signs &amp; symbols" id="489">
+        <attvalues>
+          <attvalue for="3" value="20" />
+          <attvalue for="4" value="0.5263157894736842" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc775" target="Objects" id="490">
+        <attvalues>
+          <attvalue for="3" value="17" />
+          <attvalue for="4" value="0.4473684210526316" />
+        </attvalues>
+      </edge>
+      <edge source="6130dce85541390021bfc775" target="Don't know" id="491">
+        <attvalues>
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0.13157894736842105" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
