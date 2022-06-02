@@ -8,13 +8,12 @@ Code and more detailed information on setting up your own version of the Urban B
 **Server**
 
 The back-end server consists of two parts. 
-1. The API handling all traffic from the app and API calls to retrieve the stored data. THe code and a more detailed explanation on how to setup the API can be found [here](https://github.com/Urban-Belonging/urbanbelonging-api)
+1. The back-end server api handles all traffic from the mobile application. Additionaly, there are endpoints for the admins to export the data gathered using the app. The exports can be used to further work with the data. For example using the notebooks shown later on this page. THe code and a more detailed explanation on how to setup the API can be found [here](https://github.com/Urban-Belonging/urbanbelonging-api). 
 
 2. An image processor handling the resizing of thumbnails, uploads to S3 compatible storage and finally returning the URLS of the uploaded images. The code and a more detailed explanation on how to setup the API can be found [here](<-- link to UB image processer github -->)
 
 
 ### Working with the data
-To collect the data you can make use of the back-end API.....
 
 Python notebooks have been made available to use as a starting point to work with the data from the app:
 
