@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to the Urban Belonging Toolkit
 
-You can use the [editor on GitHub](https://github.com/Urban-Belonging/UrbanBelongingToolkit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+On this page you will find the links to all relevant code to setup your own version of the Urban Belonging app or work with the resulting data from the app. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Setting up your own app and server
+Code and more detailed information on setting up your own version of the Urban Belonging app can be found [here](<-- link to UB app github -->)
 
-### Markdown
+**Server**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The back-end server consists of two parts. 
+1. The API handling all traffic from the app and API calls to retrieve the stored data. THe code and a more detailed explanation on how to setup the API can be found [here](https://github.com/Urban-Belonging/urbanbelonging-api)
 
-```markdown
-Syntax highlighted code block
+2. An image processor handling the resizing of thumbnails, uploads to S3 compatible storage and finally returning the URLS of the uploaded images. The code and a more detailed explanation on how to setup the API can be found [here](<-- link to UB image processer github -->)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Working with the data
+To collect the data you can make use of the back-end API.....
 
-1. Numbered
-2. List
+Python notebooks have been made available to use as a starting point to work with the data from the app:
 
-**Bold** and _Italic_ and `Code` text
+- [Converting JSON to CSV file and aggregate data statistics](https://github.com/Urban-Belonging/UB-scripts/blob/main/Data%20preperation/convertJsonToCSV.ipynb)
+- [Download all pictures to seperate folder on your system](https://github.com/Urban-Belonging/UB-scripts/blob/main/Data%20preperation/photosToFolders.ipynb)
+- [Converting the location tracking data](https://github.com/Urban-Belonging/UB-scripts/blob/main/Data%20preperation/convertRouteData.ipynb)
+- [Creating Gephi networks based on the slider and tag data](https://github.com/Urban-Belonging/UB-scripts/blob/main/Gephy%20networks/Urban%20Belonging%20networks%2023-09-2021.ipynb)
+- [Creating small cards (for print) containing relevant data for each photo to be used in workshop settings](https://github.com/Urban-Belonging/UB-scripts/blob/main/Workshop%20Content/createPhotoCards.ipynb)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Urban-Belonging/UrbanBelongingToolkit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
