@@ -22,7 +22,7 @@ Python notebooks have been made available to use as a starting point to work wit
 - [Converting the location tracking data](https://github.com/Urban-Belonging/UB-scripts/blob/main/Data%20preperation/convertRouteData.ipynb)
 - [Creating Gephi networks based on the slider and tag data](https://github.com/Urban-Belonging/UB-scripts/blob/main/Gephy%20networks/Urban%20Belonging%20networks%2023-09-2021.ipynb)
 - [Creating small cards (for print) containing relevant data for each photo to be used in workshop settings](https://github.com/Urban-Belonging/UB-scripts/blob/main/Workshop%20Content/createPhotoCards.ipynb)
-![Workshop 1 example](/UrbanBelongingToolkit/assets/example_1_cards)
-![Workshop 2 example](/UrbanBelongingToolkit/assets/example_2_cards)
+![Workshop 1 example](/assets/example_1_cards)
+![Workshop 2 example](/assets/example_2_cards)
 
 
