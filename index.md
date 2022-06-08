@@ -26,6 +26,6 @@ Python notebooks have been made available to use as a starting point to work wit
 **Workshop materials**
 - [Creating small cards (for print) containing relevant data for each photo to be used in workshop settings](https://github.com/Urban-Belonging/UB-scripts/blob/main/Workshop%20Content/createPhotoCards.ipynb) You can see examples of the output below.
 
-<img src="https://github.com/Urban-Belonging/UrbanBelongingToolkit/blob/gh-pages/docs/assets/example_1_cards.PNG" width="40%" /> <img src="https://github.com/Urban-Belonging/UrbanBelongingToolkit/blob/gh-pages/docs/assets/example_2_cards.PNG" width="40%" />
+<img src="https://raw.githubusercontent.com/Urban-Belonging/UrbanBelongingToolkit/gh-pages/docs/assets/example_1_cards.PNG" width="40%" /> <img src="https://raw.githubusercontent.com/Urban-Belonging/UrbanBelongingToolkit/gh-pages/docs/assets/example_2_cards.PNG" width="40%" />
 
 
