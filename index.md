@@ -3,14 +3,14 @@
 On this page you will find the links to all relevant code to setup your own version of the Urban Belonging app or work with the resulting data from the app. 
 
 ### Setting up your own app and server
-Code and more detailed information on setting up your own version of the Urban Belonging app can be found [here](<-- link to UB app github -->)
+Code and more detailed information on setting up your own version of the Urban Belonging app can be found [here](https://github.com/Urban-Belonging/UrbanBelonging)
 
 **Server**
 
 The back-end server consists of two parts. 
 1. The back-end server api handles all traffic from the mobile application. Additionaly, there are endpoints for the admins to export the data gathered using the app. The exports can be used to further work with the data. For example using the notebooks shown later on this page. THe code and a more detailed explanation on how to setup the API can be found [here](https://github.com/Urban-Belonging/urbanbelonging-api). 
 
-2. An image processor handling the resizing of thumbnails, uploads to S3 compatible storage and finally returning the URLS of the uploaded images. The code and a more detailed explanation on how to setup the API can be found [here](<-- link to UB image processer github -->)
+2. An image processor handling the resizing of thumbnails, uploads to S3 compatible storage and finally returning the URLS of the uploaded images. The code and a more detailed explanation on how to setup the API can be found [here](https://github.com/Urban-Belonging/urbanbelonging-image-post-processor)
 
 
 ### Working with the data
