@@ -27,6 +27,7 @@ Python notebooks have been made available to use as a starting point to work wit
 - [Creating small cards (for print) containing relevant data for each photo to be used in workshop settings](https://github.com/Urban-Belonging/UB-scripts/blob/main/Workshop%20Content/createPhotoCards.ipynb) 
 
 You can see examples of the output below. Left showing the slider value and tags attached by the creator of the photo. Right showing the overview of reactions (sliders values and tags) by all users on a specific photo
+
 <img src="https://raw.githubusercontent.com/Urban-Belonging/UrbanBelongingToolkit/gh-pages/docs/assets/example_1_cards.PNG" width="40%" /> <img src="https://raw.githubusercontent.com/Urban-Belonging/UrbanBelongingToolkit/gh-pages/docs/assets/example_2_cards.PNG" width="40%" />
 
 
