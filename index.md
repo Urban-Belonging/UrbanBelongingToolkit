@@ -1,6 +1,6 @@
 ## Welcome to the Urban Belonging Toolkit
 
-On this page you will find the links to all relevant code to setup your own version of the Urban Belonging app or work with the resulting data from the app. 
+On this page you will find the links to all relevant code to setup your own version of the Urban Belonging app or work with the resulting data from the app. For more background on the project. Please visis www.urbanbelonging.com.
 
 ### Setting up your own app and server
 Code and more detailed information on setting up your own version of the Urban Belonging app can be found [here](https://github.com/Urban-Belonging/UrbanBelonging)
