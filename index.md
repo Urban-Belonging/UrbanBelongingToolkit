@@ -20,7 +20,7 @@ Python notebooks have been made available to use as a starting point to work wit
 - [Converting JSON to CSV file and aggregate data statistics](https://github.com/Urban-Belonging/UB-scripts/blob/main/Data%20preperation/convertJsonToCSV.ipynb)
 - [Download all pictures to seperate folder on your system](https://github.com/Urban-Belonging/UB-scripts/blob/main/Data%20preperation/photosToFolders.ipynb)
 - [Converting the location tracking data](https://github.com/Urban-Belonging/UB-scripts/blob/main/Data%20preperation/convertRouteData.ipynb)
-- [Creating Gephi networks based on the slider and tag data](https://github.com/Urban-Belonging/UB-scripts/blob/main/Gephy%20networks/Urban%20Belonging%20networks%2023-09-2021.ipynb)
+- [Creating Gephi networks based on the slider and tag data](https://github.com/Urban-Belonging/UrbanBelongingToolkit/blob/main/Gephy%20networks/networkGenerator.ipynb)
 
 
 **Workshop materials**
