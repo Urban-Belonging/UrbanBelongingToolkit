@@ -17,14 +17,14 @@ The back-end server consists of two parts.
 
 Python notebooks have been made available to use as a starting point to work with the data from the app:
 
-- [Converting JSON to CSV file and aggregate data statistics](https://github.com/Urban-Belonging/UB-scripts/blob/main/Data%20preperation/convertJsonToCSV.ipynb)
-- [Download all pictures to seperate folder on your system](https://github.com/Urban-Belonging/UB-scripts/blob/main/Data%20preperation/photosToFolders.ipynb)
-- [Converting the location tracking data](https://github.com/Urban-Belonging/UB-scripts/blob/main/Data%20preperation/convertRouteData.ipynb)
+- [Converting JSON to CSV file and aggregate data statistics](https://github.com/Urban-Belonging/UrbanBelongingToolkit/blob/main/Data%20preperation/convertJsonToCSV.ipynb)
+- [Download all pictures to seperate folder on your system](https://github.com/Urban-Belonging/UrbanBelongingToolkit/blob/main/Data%20preperation/photosToFolders.ipynb)
+- [Converting the location tracking data](https://github.com/Urban-Belonging/UrbanBelongingToolkit/blob/main/Data%20preperation/convertRouteData.ipynb)
 - [Creating Gephi networks based on the slider and tag data](https://github.com/Urban-Belonging/UrbanBelongingToolkit/blob/main/Gephy%20networks/networkGenerator.ipynb)
 
 
 **Workshop materials**
-- [Creating small cards (for print) containing relevant data for each photo about annotations from the user who made the photo to be used in workshop settings](https://github.com/Urban-Belonging/UB-scripts/blob/main/Workshop%20Content/createPhotoCards.ipynb) 
+- [Creating small cards (for print) containing relevant data for each photo about annotations from the user who made the photo to be used in workshop settings](https://github.com/Urban-Belonging/UrbanBelongingToolkit/blob/main/Workshop%20Content/createPhotoCards.ipynb) 
 - [Creating cards (for print) to be used in workshop settings from a list of contested photos from the reactions of other users](https://github.com/Urban-Belonging/UrbanBelongingToolkit/blob/main/Workshop%20Content/ContestedPhotoCards.ipynb)
 
 You can see examples of the output below. Left showing the slider value and tags attached by the creator of the photo. Right showing the overview of contested reactions (sliders values and tags) by all users on a photo.
